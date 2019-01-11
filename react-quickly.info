@@ -1,0 +1,203 @@
+This is react-quickly.info, produced by makeinfo version 6.5 from
+react-quickly.texi.
+
+React Quickly by Azat Mardan
+
+   © 2017 Manning Publications Co.
+INFO-DIR-SECTION React
+START-INFO-DIR-ENTRY
+* React Quickly.        Painless Web Apps with React, JSX, Redux, GraphQL.
+END-INFO-DIR-ENTRY
+
+
+File: react-quickly.info,  Node: Top,  Next: Meeting React,  Up: (dir)
+
+React Quickly
+*************
+
+React Quickly by Azat Mardan
+
+   © 2017 Manning Publications Co.
+
+* Menu:
+
+* Meeting React::
+* Baby Steps with React::
+* Introduction to JSX::
+* Making React Interactive with States::
+* React Component Lifecycle Events::
+* Handling Events in React::
+* Working with Forms in React::
+* Scaling React Components::
+* Project---Menu Component::
+* Project---Tooltip Component::
+* Project---Timer Component::
+* The Webpack Build Tool::
+* React Routing::
+* Working with Data Using Redux::
+* Working with Data Using GraphQL::
+* Unit Testing React with Jest::
+* React on Node and Universal JavaScript::
+* Project---Building a Bookstore with React Router::
+* Project---Checking Passwords with Jest::
+* Project—Implementing Autocomplete with Jest, Express, and MongoDB: Project---Implementing Autocomplete with Jest Express and MongoDB.
+* INDEX::
+
+
+File: react-quickly.info,  Node: Meeting React,  Next: Baby Steps with React,  Prev: Top,  Up: Top
+
+1 Meeting React
+***************
+
+
+File: react-quickly.info,  Node: Baby Steps with React,  Next: Introduction to JSX,  Prev: Meeting React,  Up: Top
+
+2 Baby Steps with React
+***********************
+
+
+File: react-quickly.info,  Node: Introduction to JSX,  Next: Making React Interactive with States,  Prev: Baby Steps with React,  Up: Top
+
+3 Introduction to JSX
+*********************
+
+
+File: react-quickly.info,  Node: Making React Interactive with States,  Next: React Component Lifecycle Events,  Prev: Introduction to JSX,  Up: Top
+
+4 Making React Interactive with States
+**************************************
+
+
+File: react-quickly.info,  Node: React Component Lifecycle Events,  Next: Handling Events in React,  Prev: Making React Interactive with States,  Up: Top
+
+5 React Component Lifecycle Events
+**********************************
+
+
+File: react-quickly.info,  Node: Handling Events in React,  Next: Working with Forms in React,  Prev: React Component Lifecycle Events,  Up: Top
+
+6 Handling Events in React
+**************************
+
+
+File: react-quickly.info,  Node: Working with Forms in React,  Next: Scaling React Components,  Prev: Handling Events in React,  Up: Top
+
+7 Working with Forms in React
+*****************************
+
+
+File: react-quickly.info,  Node: Scaling React Components,  Next: Project---Menu Component,  Prev: Working with Forms in React,  Up: Top
+
+8 Scaling React Components
+**************************
+
+
+File: react-quickly.info,  Node: Project---Menu Component,  Next: Project---Tooltip Component,  Prev: Scaling React Components,  Up: Top
+
+9 Project—Menu Component
+************************
+
+
+File: react-quickly.info,  Node: Project---Tooltip Component,  Next: Project---Timer Component,  Prev: Project---Menu Component,  Up: Top
+
+10 Project—Tooltip Component
+****************************
+
+
+File: react-quickly.info,  Node: Project---Timer Component,  Next: The Webpack Build Tool,  Prev: Project---Tooltip Component,  Up: Top
+
+11 Project—Timer Component
+**************************
+
+
+File: react-quickly.info,  Node: The Webpack Build Tool,  Next: React Routing,  Prev: Project---Timer Component,  Up: Top
+
+12 The Webpack Build Tool
+*************************
+
+
+File: react-quickly.info,  Node: React Routing,  Next: Working with Data Using Redux,  Prev: The Webpack Build Tool,  Up: Top
+
+13 React Routing
+****************
+
+
+File: react-quickly.info,  Node: Working with Data Using Redux,  Next: Working with Data Using GraphQL,  Prev: React Routing,  Up: Top
+
+14 Working with Data Using Redux
+********************************
+
+
+File: react-quickly.info,  Node: Working with Data Using GraphQL,  Next: Unit Testing React with Jest,  Prev: Working with Data Using Redux,  Up: Top
+
+15 Working with Data Using GraphQL
+**********************************
+
+
+File: react-quickly.info,  Node: Unit Testing React with Jest,  Next: React on Node and Universal JavaScript,  Prev: Working with Data Using GraphQL,  Up: Top
+
+16 Unit Testing React with Jest
+*******************************
+
+
+File: react-quickly.info,  Node: React on Node and Universal JavaScript,  Next: Project---Building a Bookstore with React Router,  Prev: Unit Testing React with Jest,  Up: Top
+
+17 React on Node and Universal JavaScript
+*****************************************
+
+
+File: react-quickly.info,  Node: Project---Building a Bookstore with React Router,  Next: Project---Checking Passwords with Jest,  Prev: React on Node and Universal JavaScript,  Up: Top
+
+18 Project—Building a Bookstore with React Router
+*************************************************
+
+
+File: react-quickly.info,  Node: Project---Checking Passwords with Jest,  Next: Project---Implementing Autocomplete with Jest Express and MongoDB,  Prev: Project---Building a Bookstore with React Router,  Up: Top
+
+19 Project—Checking Passwords with Jest
+***************************************
+
+
+File: react-quickly.info,  Node: Project---Implementing Autocomplete with Jest Express and MongoDB,  Next: INDEX,  Prev: Project---Checking Passwords with Jest,  Up: Top
+
+20 Project—Implementing Autocomplete with Jest, Express, and MongoDB
+********************************************************************
+
+
+File: react-quickly.info,  Node: INDEX,  Prev: Project---Implementing Autocomplete with Jest Express and MongoDB,  Up: Top
+
+INDEX
+*****
+
+
+
+Tag Table:
+Node: Top292
+Node: Meeting React1234
+Node: Baby Steps with React1369
+Node: Introduction to JSX1536
+Node: Making React Interactive with States1722
+Node: React Component Lifecycle Events1953
+Node: Handling Events in React2181
+Node: Working with Forms in React2384
+Node: Scaling React Components2585
+Node: Project---Menu Component2780
+Node: Project---Tooltip Component2973
+Node: Project---Timer Component3175
+Node: The Webpack Build Tool3371
+Node: React Routing3549
+Node: Working with Data Using Redux3713
+Node: Working with Data Using GraphQL3918
+Node: Unit Testing React with Jest4142
+Node: React on Node and Universal JavaScript4369
+Node: Project---Building a Bookstore with React Router4633
+Node: Project---Checking Passwords with Jest4925
+Node: Project---Implementing Autocomplete with Jest Express and MongoDB5224
+Node: INDEX5538
+
+End Tag Table
+
+
+Local Variables:
+coding: utf-8
+End:

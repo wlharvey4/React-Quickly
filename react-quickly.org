@@ -1,0 +1,51 @@
+# -*- mode: org; fill-column: 79; -*-
+
+#+TITLE: React Quickly
+#+SUBTITLE: Painless Web Apps with React, JSX, Redux, and GraphQL
+#+AUTHOR: Azat Mardan
+#+DATE: <2019-01-11 Fri 14:15>
+
+#+TEXINFO: @insertcopying
+
+#+TEXINFO: @part REACT FOUNDATION
+* Meeting React
+* Baby Steps with React
+* Introduction to JSX
+* Making React Interactive with States
+* React Component Lifecycle Events
+* Handling Events in React
+* Working with Forms in React
+* Scaling React Components
+* Project---Menu Component
+* Project---Tooltip Component
+* Project---Timer Component
+#+TEXINFO: @part REACT ARCHITECTURE
+* The Webpack Build Tool
+* React Routing
+* Working with Data Using Redux
+* Working with Data Using GraphQL
+* Unit Testing React with Jest
+* React on Node and Universal JavaScript
+* Project---Building a Bookstore with React Router
+* Project---Checking Passwords with Jest
+* Project---Implementing Autocomplete with Jest, Express, and MongoDB
+
+* INDEX
+  :PROPERTIES:
+  :INDEX:    t
+  :END:
+
+* COPYING
+  :PROPERTIES:
+  :COPYING:  t
+  :END:
+{{{TITLE}}} by {{{AUTHOR}}}
+
+\copy 2017 Manning Publications Co.
+* EXPORT SETTINGS                                                  :noexport:
+#+TEXINFO_CLASS: info
+#+TEXINFO_HEADER:
+#+TEXINFO_POST_HEADER:
+#+TEXINFO_DIR_CATEGORY: React
+#+TEXINFO_DIR_TITLE: React Quickly
+#+TEXINFO_DIR_DESC: Painless Web Apps with React, JSX, Redux, GraphQL
